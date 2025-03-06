@@ -5,17 +5,17 @@ This project is a decentralized exchange (DEX) built using the 0x API for fetchi
 ## Project Structure
 dex_decentralised_crypto_exchange/<br/>
 ├── frontend/<br/>
-│   ├── src/<br/>
-|&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── ... (React components, apis, etc.)<br/>
-│&nbsp; &nbsp; &nbsp;├── public/<br/>
-│&nbsp; &nbsp; &nbsp;├── package.json<br/>
-│&nbsp; &nbsp; &nbsp;├── tsconfig.json<br/>
-│&nbsp; &nbsp; &nbsp;└── vite.config.ts<br/>
+│ ├── src/<br/>
+│ │ └── ... (React components, apis, etc.)<br/>
+│ ├── public/<br/>
+│ ├── package.json<br/>
+│ ├── tsconfig.json<br/>
+│ └── vite.config.ts<br/>
 ├── backend/<br/>
-│&nbsp; &nbsp; &nbsp;├── src/<br/>
-│&nbsp; &nbsp; &nbsp;│&nbsp; &nbsp; &nbsp;└── index.ts (Backend server logic)<br/>
-│&nbsp; &nbsp; &nbsp;├── package.json<br/>
-│&nbsp; &nbsp; &nbsp;└── tsconfig.json<br/>
+│ ├── src/<br/>
+│ │ └── index.ts (Backend server logic)<br/>
+│ ├── package.json<br/>
+│ └── tsconfig.json<br/>
 ├── README.md<br/>
 
 ## Frontend (React)
