@@ -2,22 +2,6 @@
 
 This project is a decentralized exchange (DEX) built using the 0x API for fetching swap quotes and executing trades. It consists of a React-based frontend and a Node.js/Express backend.
 
-## Project Structure
-dex_decentralised_crypto_exchange/<br/>
-├── frontend/<br/>
-│ ├── src/<br/>
-│ │ └── ... (React components, apis, etc.)<br/>
-│ ├── public/<br/>
-│ ├── package.json<br/>
-│ ├── tsconfig.json<br/>
-│ └── vite.config.ts<br/>
-├── backend/<br/>
-│ ├── src/<br/>
-│ │ └── index.ts (Backend server logic)<br/>
-│ ├── package.json<br/>
-│ └── tsconfig.json<br/>
-├── README.md<br/>
-
 ## Frontend (React)
 
 The frontend is built using React, TypeScript, and Vite. It utilizes the following libraries:
