@@ -3,20 +3,20 @@
 This project is a decentralized exchange (DEX) built using the 0x API for fetching swap quotes and executing trades. It consists of a React-based frontend and a Node.js/Express backend.
 
 ## Project Structure
-dex_decentralised_crypto_exchange/
-├── frontend/
-│   ├── src/
-&nbsp; &nbsp; &nbsp;│&nbsp; &nbsp; &nbsp;└── ... (React components, apis, etc.)
-│&nbsp; &nbsp; &nbsp;├── public/
-│&nbsp; &nbsp; &nbsp;├── package.json
-│&nbsp; &nbsp; &nbsp;├── tsconfig.json
-│&nbsp; &nbsp; &nbsp;└── vite.config.ts
-├── backend/
-│&nbsp; &nbsp; &nbsp;├── src/
-│&nbsp; &nbsp; &nbsp;│&nbsp; &nbsp; &nbsp;└── index.ts (Backend server logic)
-│&nbsp; &nbsp; &nbsp;├── package.json
-│&nbsp; &nbsp; &nbsp;└── tsconfig.json
-├── README.md
+dex_decentralised_crypto_exchange/<br/>
+├── frontend/<br/>
+│   ├── src/<br/>
+&nbsp; &nbsp; &nbsp;│&nbsp; &nbsp; &nbsp;└── ... (React components, apis, etc.)<br/>
+│&nbsp; &nbsp; &nbsp;├── public/<br/>
+│&nbsp; &nbsp; &nbsp;├── package.json<br/>
+│&nbsp; &nbsp; &nbsp;├── tsconfig.json<br/>
+│&nbsp; &nbsp; &nbsp;└── vite.config.ts<br/>
+├── backend/<br/>
+│&nbsp; &nbsp; &nbsp;├── src/<br/>
+│&nbsp; &nbsp; &nbsp;│&nbsp; &nbsp; &nbsp;└── index.ts (Backend server logic)<br/>
+│&nbsp; &nbsp; &nbsp;├── package.json<br/>
+│&nbsp; &nbsp; &nbsp;└── tsconfig.json<br/>
+├── README.md<br/>
 
 ## Frontend (React)
 
