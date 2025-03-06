@@ -6,7 +6,7 @@ This project is a decentralized exchange (DEX) built using the 0x API for fetchi
 dex_decentralised_crypto_exchange/<br/>
 ├── frontend/<br/>
 │   ├── src/<br/>
-&nbsp; &nbsp; &nbsp;│&nbsp; &nbsp; &nbsp;└── ... (React components, apis, etc.)<br/>
+|&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;└── ... (React components, apis, etc.)<br/>
 │&nbsp; &nbsp; &nbsp;├── public/<br/>
 │&nbsp; &nbsp; &nbsp;├── package.json<br/>
 │&nbsp; &nbsp; &nbsp;├── tsconfig.json<br/>
